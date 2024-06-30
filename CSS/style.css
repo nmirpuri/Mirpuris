@@ -184,7 +184,7 @@ text-align: center;
 }
 
 .bg-86 {
-  background: url('../images/DubaiNail.jpg);
+  background: url('../images/DubaiNail.jpg');
   background-size:cover;
 }
 
@@ -194,6 +194,6 @@ text-align: center;
 }
 
 .bg-06 {
-  background: url('../images/2015-Orlando.jpg');
+  background: url('../images/DubaiNail.jpg');
   background-size:cover;
 }
