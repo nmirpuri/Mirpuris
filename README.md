@@ -1,2 +1,2 @@
 # photo-museum
-Static gallery website
+https://nmirpuri.github.io/Mirpuris/
